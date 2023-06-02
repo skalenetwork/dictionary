@@ -1,0 +1,16 @@
+arrayify
+bignumber
+bignumberish
+codecov
+codemirror
+crytic
+dotenv
+ipython
+libff
+matplotlib
+mkdir
+nomiclabs
+pyplot
+solcover
+solhint
+typechain

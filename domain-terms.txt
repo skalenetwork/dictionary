@@ -1,0 +1,10 @@
+agpl
+ecdh
+keccak256
+mintable
+precompiled
+predeployed
+premined
+reentrancy
+secp256k1
+timelimit

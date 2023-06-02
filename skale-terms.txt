@@ -1,0 +1,7 @@
+delegators
+schain
+schains
+skale
+skalenetwork
+undelegate
+undelegation
