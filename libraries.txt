@@ -5,6 +5,8 @@ codecov
 codemirror
 crytic
 dotenv
+ethers
+ethersproject
 ipython
 libff
 matplotlib
