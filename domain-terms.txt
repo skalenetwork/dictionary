@@ -1,5 +1,6 @@
 agpl
 ecdh
+etherbase
 keccak256
 mintable
 precompiled
