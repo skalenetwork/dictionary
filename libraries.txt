@@ -18,3 +18,4 @@ setuptools
 solcover
 solhint
 typechain
+venv
