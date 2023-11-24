@@ -3,6 +3,7 @@ ima
 schain
 schains
 skale
+skaled
 skalenetwork
 undelegate
 undelegation
