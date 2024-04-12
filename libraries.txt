@@ -17,6 +17,7 @@ nomiclabs
 parver
 prando
 pyplot
+renovatebot
 setuptools
 solcover
 solhint
