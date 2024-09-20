@@ -1,6 +1,7 @@
 arrayify
 bignumber
 bignumberish
+blockscout
 codecov
 codemirror
 crytic
