@@ -24,3 +24,4 @@ solcover
 solhint
 typechain
 venv
+viem
