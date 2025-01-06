@@ -1,5 +1,6 @@
 agpl
 ecdh
+erc
 etherbase
 keccak256
 mintable
