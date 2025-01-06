@@ -1,5 +1,7 @@
 delegators
+filestorage
 ima
+interchain
 schain
 schains
 skale
@@ -9,4 +11,3 @@ skl
 undelegate
 undelegation
 upgrader
-filestorage
