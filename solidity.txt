@@ -1,9 +1,11 @@
 abicoder
+addmod
 blockhash
 chainid
 delegatecall
 gasleft
 mload
+mulmod
 reinitializer
 selfdestruct
 staticcall
