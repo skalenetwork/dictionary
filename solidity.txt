@@ -5,9 +5,10 @@ chainid
 delegatecall
 gasleft
 mload
+mstore
 mulmod
+prevrandao
 reinitializer
 selfdestruct
 staticcall
 struct
-prevrandao
