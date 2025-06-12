@@ -10,3 +10,4 @@ reinitializer
 selfdestruct
 staticcall
 struct
+prevrandao
