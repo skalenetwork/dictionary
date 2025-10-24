@@ -9,6 +9,7 @@ datetime
 dotenv
 ethers
 ethersproject
+hexlify
 ipython
 libff
 matplotlib
