@@ -4,6 +4,7 @@ blockhash
 chainid
 delegatecall
 gasleft
+inheritdoc
 mload
 mstore
 mulmod
