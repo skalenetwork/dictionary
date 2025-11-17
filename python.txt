@@ -2,4 +2,3 @@ mypy
 pydantic
 pyproject
 pythonpath
-trixie

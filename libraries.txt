@@ -23,6 +23,7 @@ renovatebot
 setuptools
 solcover
 solhint
+trixie
 typechain
 venv
 viem
