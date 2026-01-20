@@ -1,5 +1,7 @@
+classmethod
 isinstance
 mypy
+pardir
 pydantic
 pyproject
 pathlib
