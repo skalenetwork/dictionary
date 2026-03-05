@@ -6,6 +6,7 @@ codecov
 codemirror
 crytic
 datetime
+docgen
 dotenv
 ethers
 ethersproject
