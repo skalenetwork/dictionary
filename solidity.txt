@@ -2,6 +2,7 @@ abicoder
 addmod
 blockhash
 chainid
+concat
 delegatecall
 gasleft
 inheritdoc
